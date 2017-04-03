@@ -20,3 +20,6 @@ This code performs the following steps:
 
 ## TidyUCIHARDataset.txt
 This dataset summarizes for each activity and subject, the average of each measurement on the mean and standard deviation for each measurement in the raw data set. There are 6 activities and 30 subjects, for a total of 180 rows. There are a total of 86 measurements of mean or standard deviation for each measurement, giving 86 data columns (plus one column each for activity and subject). The file is a tab-delimited text file.
+
+## Intermediate files
+Intermediate files (e.g., raw data files in zipped or unzipped format) are not maintained in this repository, since they are downloaded as part of the working script.
