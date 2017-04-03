@@ -4,11 +4,11 @@
 This code book describes the variables, data, and any transformations and work performed to clean up the data, as required for the class assignment for the Getting and Cleaning Data course, part of JHU Data Science certificate program on Coursera.
 
 ### Objectives:
-1. Merge training and test sets to create one data set. Check format of the data sets. Is it okay to append w/col for source?
-2. Extract only the measurements on the mean and sd for each measure
-3. Use descriptive activity names to name the activities in the data set
-4. Appropriately lavel the data set with descriptive variable names
-5. From the data set in step 4, create a second, independent data set with the average of each variable for each activity and each subject
+1. Merge training and test sets to create one data set. Check format of the data sets.
+2. Extract only the measurements on the mean and sd for each measure.
+3. Use descriptive activity names to name the activities in the data set.
+4. Appropriately lavel the data set with descriptive variable names.
+5. From the data set in step 4, create a second, independent data set with the average of each variable for each activity and each subject.
 
 ### NOTES regarding raw data files 
 
